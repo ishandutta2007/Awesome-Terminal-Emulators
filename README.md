@@ -77,109 +77,109 @@ The table below catalogs premier commercial and hosted terminal tools, complete 
 
 ## ⭐ Open-Source GitHub Projects (Ranked by Stars)
 
-The open-source terminal emulator ecosystem powers the world's developer workstations. Below are top repositories, decorated with live social star badges linking directly to their GitHub stargazers page.
+The open-source terminal emulator ecosystem powers the world's developer workstations. Below are top repositories, decorated with live social Stars_Badges linking directly to their GitHub stargazers page.
 
-> *Sorted descending by GitHub Star Count.*
+> *Sorted descending by GitHub Stars_Count.*
 
-| Rank | Terminal Emulator | GitHub Live Star Count | Primary Language | Rendering & Platform Focus |
+| Rank | Terminal Emulator | GitHub Live Stars_Count | Primary Language | Rendering & Platform Focus |
 |:---:|:---|:---:|:---:|:---|
-| 1 | **[Windows Terminal](https://github.com/microsoft/terminal)** | [![GitHub stars](https://img.shields.io/github/stars/microsoft/terminal?style=social&color=white)](https://github.com/microsoft/terminal/stargazers) | C++ / C# | DirectX hardware accelerated, tabs, panes, profiles, Windows 10/11 |
-| 2 | **[Tabby](https://github.com/Eugeny/tabby)** | [![GitHub stars](https://img.shields.io/github/stars/Eugeny/tabby?style=social&color=white)](https://github.com/Eugeny/tabby/stargazers) | TypeScript | Electron-based, integrated SSH/Serial, customizable CSS, Cross-Platform |
-| 3 | **[Alacritty](https://github.com/alacritty/alacritty)** | [![GitHub stars](https://img.shields.io/github/stars/alacritty/alacritty?style=social&color=white)](https://github.com/alacritty/alacritty/stargazers) | Rust | OpenGL GPU renderer, minimal bloat, simplicity & extreme speed, Cross-Platform |
-| 4 | **[Ghostty](https://github.com/ghostty-org/ghostty)** | [![GitHub stars](https://img.shields.io/github/stars/ghostty-org/ghostty?style=social&color=white)](https://github.com/ghostty-org/ghostty/stargazers) | Zig / C | Metal & OpenGL/Vulkan, native macOS/Linux GUI, rich typography & speed |
-| 5 | **[Hyper](https://github.com/vercel/hyper)** | [![GitHub stars](https://img.shields.io/github/stars/vercel/hyper?style=social&color=white)](https://github.com/vercel/hyper/stargazers) | JavaScript | Web technologies (HTML/CSS/JS), extensible plugin ecosystem, Cross-Platform |
-| 6 | **[Kitty](https://github.com/kovidgoyal/kitty)** | [![GitHub stars](https://img.shields.io/github/stars/kovidgoyal/kitty?style=social&color=white)](https://github.com/kovidgoyal/kitty/stargazers) | Python / C | OpenGL GPU-based, Kittens plugin architecture, tiling window layouts, Linux/macOS |
-| 7 | **[WezTerm](https://github.com/wezterm/wezterm)** | [![GitHub stars](https://img.shields.io/github/stars/wezterm/wezterm?style=social&color=white)](https://github.com/wezterm/wezterm/stargazers) | Rust | GPU-accelerated, built-in multiplexer, Lua config with hot-reload, Cross-Platform |
-| 8 | **[Cmder](https://github.com/cmderdev/cmder)** | [![GitHub stars](https://img.shields.io/github/stars/cmderdev/cmder?style=social&color=white)](https://github.com/cmderdev/cmder/stargazers) | C++ / Shell | Portable console package for Windows bundling ConEmu, Clink, and Git Bash |
-| 9 | **[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term)** | [![GitHub stars](https://img.shields.io/github/stars/Swordfish90/cool-retro-term?style=social&color=white)](https://github.com/Swordfish90/cool-retro-term/stargazers) | QML / C++ | Nostalgic cathode-ray tube (CRT) display simulator with scanlines, Cross-Platform |
-| 10 | **[Wave Terminal](https://github.com/wavetermdev/waveterm)** | [![GitHub stars](https://img.shields.io/github/stars/wavetermdev/waveterm?style=social&color=white)](https://github.com/wavetermdev/waveterm/stargazers) | TypeScript / Go | Open-source, AI-integrated workspace terminal with graphical rendering cards |
-| 11 | **[iTerm2](https://github.com/gnachman/iTerm2)** | [![GitHub stars](https://img.shields.io/github/stars/gnachman/iTerm2?style=social&color=white)](https://github.com/gnachman/iTerm2/stargazers) | Objective-C | macOS de-facto standard, inline images, instant replay, shell integration |
-| 12 | **[Fluent Terminal](https://github.com/felixse/FluentTerminal)** | [![GitHub stars](https://img.shields.io/github/stars/felixse/FluentTerminal?style=social&color=white)](https://github.com/felixse/FluentTerminal/stargazers) | TypeScript / C# | UWP & web technology terminal emulator with Windows Fluent Design aesthetics |
-| 13 | **[ConEmu](https://github.com/ConEmu/ConEmu)** | [![GitHub stars](https://img.shields.io/github/stars/ConEmu/ConEmu?style=social&color=white)](https://github.com/ConEmu/ConEmu/stargazers) | C++ | Deeply customizable Windows tabbed console engine, splits, quake-mode |
-| 14 | **[Rio](https://github.com/raphamorim/rio)** | [![GitHub stars](https://img.shields.io/github/stars/raphamorim/rio?style=social&color=white)](https://github.com/raphamorim/rio/stargazers) | Rust | Hardware-accelerated GPU terminal built on WebGPU/wgpu, Cross-Platform |
-| 15 | **[Contour](https://github.com/contour-terminal/contour)** | [![GitHub stars](https://img.shields.io/github/stars/contour-terminal/contour?style=social&color=white)](https://github.com/contour-terminal/contour/stargazers) | C++ | Modern terminal with VT525 emulation, Sixel/iTerm graphic protocols, Qt/OpenGL |
-| 16 | **[Extraterm](https://github.com/sedwards2009/extraterm)** | [![GitHub stars](https://img.shields.io/github/stars/sedwards2009/extraterm?style=social&color=white)](https://github.com/sedwards2009/extraterm/stargazers) | TypeScript / C++ | "Swiss army chainsaw" terminal with command framing, shell integration & mini-map |
+| 1 | **[Windows Terminal](https://github.com/microsoft/terminal)** | [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/terminal?style=social&color=white)](https://github.com/microsoft/terminal/stargazers) | C++ / C# | DirectX hardware accelerated, tabs, panes, profiles, Windows 10/11 |
+| 2 | **[Tabby](https://github.com/Eugeny/tabby)** | [![GitHub_Stars](https://img.shields.io/github/stars/Eugeny/tabby?style=social&color=white)](https://github.com/Eugeny/tabby/stargazers) | TypeScript | Electron-based, integrated SSH/Serial, customizable CSS, Cross-Platform |
+| 3 | **[Alacritty](https://github.com/alacritty/alacritty)** | [![GitHub_Stars](https://img.shields.io/github/stars/alacritty/alacritty?style=social&color=white)](https://github.com/alacritty/alacritty/stargazers) | Rust | OpenGL GPU renderer, minimal bloat, simplicity & extreme speed, Cross-Platform |
+| 4 | **[Ghostty](https://github.com/ghostty-org/ghostty)** | [![GitHub_Stars](https://img.shields.io/github/stars/ghostty-org/ghostty?style=social&color=white)](https://github.com/ghostty-org/ghostty/stargazers) | Zig / C | Metal & OpenGL/Vulkan, native macOS/Linux GUI, rich typography & speed |
+| 5 | **[Hyper](https://github.com/vercel/hyper)** | [![GitHub_Stars](https://img.shields.io/github/stars/vercel/hyper?style=social&color=white)](https://github.com/vercel/hyper/stargazers) | JavaScript | Web technologies (HTML/CSS/JS), extensible plugin ecosystem, Cross-Platform |
+| 6 | **[Kitty](https://github.com/kovidgoyal/kitty)** | [![GitHub_Stars](https://img.shields.io/github/stars/kovidgoyal/kitty?style=social&color=white)](https://github.com/kovidgoyal/kitty/stargazers) | Python / C | OpenGL GPU-based, Kittens plugin architecture, tiling window layouts, Linux/macOS |
+| 7 | **[WezTerm](https://github.com/wezterm/wezterm)** | [![GitHub_Stars](https://img.shields.io/github/stars/wezterm/wezterm?style=social&color=white)](https://github.com/wezterm/wezterm/stargazers) | Rust | GPU-accelerated, built-in multiplexer, Lua config with hot-reload, Cross-Platform |
+| 8 | **[Cmder](https://github.com/cmderdev/cmder)** | [![GitHub_Stars](https://img.shields.io/github/stars/cmderdev/cmder?style=social&color=white)](https://github.com/cmderdev/cmder/stargazers) | C++ / Shell | Portable console package for Windows bundling ConEmu, Clink, and Git Bash |
+| 9 | **[Cool Retro Term](https://github.com/Swordfish90/cool-retro-term)** | [![GitHub_Stars](https://img.shields.io/github/stars/Swordfish90/cool-retro-term?style=social&color=white)](https://github.com/Swordfish90/cool-retro-term/stargazers) | QML / C++ | Nostalgic cathode-ray tube (CRT) display simulator with scanlines, Cross-Platform |
+| 10 | **[Wave Terminal](https://github.com/wavetermdev/waveterm)** | [![GitHub_Stars](https://img.shields.io/github/stars/wavetermdev/waveterm?style=social&color=white)](https://github.com/wavetermdev/waveterm/stargazers) | TypeScript / Go | Open-source, AI-integrated workspace terminal with graphical rendering cards |
+| 11 | **[iTerm2](https://github.com/gnachman/iTerm2)** | [![GitHub_Stars](https://img.shields.io/github/stars/gnachman/iTerm2?style=social&color=white)](https://github.com/gnachman/iTerm2/stargazers) | Objective-C | macOS de-facto standard, inline images, instant replay, shell integration |
+| 12 | **[Fluent Terminal](https://github.com/felixse/FluentTerminal)** | [![GitHub_Stars](https://img.shields.io/github/stars/felixse/FluentTerminal?style=social&color=white)](https://github.com/felixse/FluentTerminal/stargazers) | TypeScript / C# | UWP & web technology terminal emulator with Windows Fluent Design aesthetics |
+| 13 | **[ConEmu](https://github.com/ConEmu/ConEmu)** | [![GitHub_Stars](https://img.shields.io/github/stars/ConEmu/ConEmu?style=social&color=white)](https://github.com/ConEmu/ConEmu/stargazers) | C++ | Deeply customizable Windows tabbed console engine, splits, quake-mode |
+| 14 | **[Rio](https://github.com/raphamorim/rio)** | [![GitHub_Stars](https://img.shields.io/github/stars/raphamorim/rio?style=social&color=white)](https://github.com/raphamorim/rio/stargazers) | Rust | Hardware-accelerated GPU terminal built on WebGPU/wgpu, Cross-Platform |
+| 15 | **[Contour](https://github.com/contour-terminal/contour)** | [![GitHub_Stars](https://img.shields.io/github/stars/contour-terminal/contour?style=social&color=white)](https://github.com/contour-terminal/contour/stargazers) | C++ | Modern terminal with VT525 emulation, Sixel/iTerm graphic protocols, Qt/OpenGL |
+| 16 | **[Extraterm](https://github.com/sedwards2009/extraterm)** | [![GitHub_Stars](https://img.shields.io/github/stars/sedwards2009/extraterm?style=social&color=white)](https://github.com/sedwards2009/extraterm/stargazers) | TypeScript / C++ | "Swiss army chainsaw" terminal with command framing, shell integration & mini-map |
 
 ---
 
 ### 🌟 Project Deep Dives
 
-#### 1. [Windows Terminal](https://github.com/microsoft/terminal) [![GitHub stars](https://img.shields.io/github/stars/microsoft/terminal?style=social&color=white)](https://github.com/microsoft/terminal/stargazers)
+#### 1. [Windows Terminal](https://github.com/microsoft/terminal) [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/terminal?style=social&color=white)](https://github.com/microsoft/terminal/stargazers)
 - **Overview**: Microsoft's official flagship terminal host for Windows 10 & 11, replacing `conhost.exe`.
 - **Highlights**: DirectX hardware-accelerated text rendering, tabs, split panes, UTF-8/emoji glyph support, custom shaders, and native profile management for PowerShell, WSL2, Git Bash, and CMD.
 - **License**: MIT.
 
-#### 2. [Tabby](https://github.com/Eugeny/tabby) [![GitHub stars](https://img.shields.io/github/stars/Eugeny/tabby?style=social&color=white)](https://github.com/Eugeny/tabby/stargazers)
+#### 2. [Tabby](https://github.com/Eugeny/tabby) [![GitHub_Stars](https://img.shields.io/github/stars/Eugeny/tabby?style=social&color=white)](https://github.com/Eugeny/tabby/stargazers)
 - **Overview**: The most complete cross-platform terminal with integrated SSH and serial connections.
 - **Highlights**: Embedded SSH client with connection organizer, SFTP/Zmodem file transfers, port forwarding, theme customization via CSS, and full session persistence.
 - **License**: MIT.
 
-#### 3. [Alacritty](https://github.com/alacritty/alacritty) [![GitHub stars](https://img.shields.io/github/stars/alacritty/alacritty?style=social&color=white)](https://github.com/alacritty/alacritty/stargazers)
+#### 3. [Alacritty](https://github.com/alacritty/alacritty) [![GitHub_Stars](https://img.shields.io/github/stars/alacritty/alacritty?style=social&color=white)](https://github.com/alacritty/alacritty/stargazers)
 - **Overview**: The pioneer of Rust-based, GPU-accelerated terminal emulation prioritizing raw speed.
 - **Highlights**: Zero UI bloat, OpenGL rendering, portable configuration via TOML, designed specifically to pair cleanly with multiplexers like `tmux` or `zellij`.
 - **License**: Apache-2.0.
 
-#### 4. [Ghostty](https://github.com/ghostty-org/ghostty) [![GitHub stars](https://img.shields.io/github/stars/ghostty-org/ghostty?style=social&color=white)](https://github.com/ghostty-org/ghostty/stargazers)
+#### 4. [Ghostty](https://github.com/ghostty-org/ghostty) [![GitHub_Stars](https://img.shields.io/github/stars/ghostty-org/ghostty?style=social&color=white)](https://github.com/ghostty-org/ghostty/stargazers)
 - **Overview**: Fast, feature-rich, native terminal emulator created by Mitchell Hashimoto, written in Zig.
 - **Highlights**: Native platform UI (Swift/Metal on macOS, GTK on Linux), native tabs/splits, ligature rendering, Kitty graphics protocol, high-frequency input dispatch.
 - **License**: MIT.
 
-#### 5. [Hyper](https://github.com/vercel/hyper) [![GitHub stars](https://img.shields.io/github/stars/vercel/hyper?style=social&color=white)](https://github.com/vercel/hyper/stargazers)
+#### 5. [Hyper](https://github.com/vercel/hyper) [![GitHub_Stars](https://img.shields.io/github/stars/vercel/hyper?style=social&color=white)](https://github.com/vercel/hyper/stargazers)
 - **Overview**: Electron-based terminal created by Vercel built on web standards (HTML, CSS, JavaScript).
 - **Highlights**: Infinite front-end extensibility via npm packages, active theme marketplace, hotkey-driven pane splitting, and instant customizability.
 - **License**: MIT.
 
-#### 6. [Kitty](https://github.com/kovidgoyal/kitty) [![GitHub stars](https://img.shields.io/github/stars/kovidgoyal/kitty?style=social&color=white)](https://github.com/kovidgoyal/kitty/stargazers)
+#### 6. [Kitty](https://github.com/kovidgoyal/kitty) [![GitHub_Stars](https://img.shields.io/github/stars/kovidgoyal/kitty?style=social&color=white)](https://github.com/kovidgoyal/kitty/stargazers)
 - **Overview**: GPU-accelerated terminal for macOS and Linux created by Kovid Goyal.
 - **Highlights**: Offloads rendering to OpenGL, built-in window tiling layouts, "Kittens" extensibility framework (side-by-side diffing, Unicode picker, hints), and pioneering terminal graphics protocol.
 - **License**: GPL-3.0.
 
-#### 7. [WezTerm](https://github.com/wezterm/wezterm) [![GitHub stars](https://img.shields.io/github/stars/wezterm/wezterm?style=social&color=white)](https://github.com/wezterm/wezterm/stargazers)
+#### 7. [WezTerm](https://github.com/wezterm/wezterm) [![GitHub_Stars](https://img.shields.io/github/stars/wezterm/wezterm?style=social&color=white)](https://github.com/wezterm/wezterm/stargazers)
 - **Overview**: The most complete modern cross-platform terminal emulator and multiplexer written in Rust.
 - **Highlights**: Embedded terminal multiplexer (no `tmux` required for splits/tabs/workspaces), Lua scripting with hot reloading, Sixel/iTerm/Kitty graphics protocol, ligatures, and TrueColor.
 - **License**: MIT.
 
-#### 8. [Cmder](https://github.com/cmderdev/cmder) [![GitHub stars](https://img.shields.io/github/stars/cmderdev/cmder?style=social&color=white)](https://github.com/cmderdev/cmder/stargazers)
+#### 8. [Cmder](https://github.com/cmderdev/cmder) [![GitHub_Stars](https://img.shields.io/github/stars/cmderdev/cmder?style=social&color=white)](https://github.com/cmderdev/cmder/stargazers)
 - **Overview**: Beloved portable console emulator package for Windows.
 - **Highlights**: Bundles ConEmu with Clink enhancements, Monokai color scheme, custom prompt, and Git for Windows out-of-the-box.
 - **License**: MIT.
 
-#### 9. [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) [![GitHub stars](https://img.shields.io/github/stars/Swordfish90/cool-retro-term?style=social&color=white)](https://github.com/Swordfish90/cool-retro-term/stargazers)
+#### 9. [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) [![GitHub_Stars](https://img.shields.io/github/stars/Swordfish90/cool-retro-term?style=social&color=white)](https://github.com/Swordfish90/cool-retro-term/stargazers)
 - **Overview**: A terminal emulator which mimics the look and feel of old cathode ray tube (CRT) screens.
 - **Highlights**: Customizable vintage phosphor glows (amber, green, apple II), scanlines, curvature, bloom, and noise simulation powered by QtQuick/QML.
 - **License**: GPL-3.0.
 
-#### 10. [Wave Terminal](https://github.com/wavetermdev/waveterm) [![GitHub stars](https://img.shields.io/github/stars/wavetermdev/waveterm?style=social&color=white)](https://github.com/wavetermdev/waveterm/stargazers)
+#### 10. [Wave Terminal](https://github.com/wavetermdev/waveterm) [![GitHub_Stars](https://img.shields.io/github/stars/wavetermdev/waveterm?style=social&color=white)](https://github.com/wavetermdev/waveterm/stargazers)
 - **Overview**: Next-generation open-source AI terminal that merges CLI execution with graphical preview cards.
 - **Highlights**: Seamless inline markdown, images, web pages, and file previews directly inside your terminal session, alongside context-aware AI chat.
 - **License**: Apache-2.0.
 
-#### 11. [iTerm2](https://github.com/gnachman/iTerm2) [![GitHub stars](https://img.shields.io/github/stars/gnachman/iTerm2?style=social&color=white)](https://github.com/gnachman/iTerm2/stargazers)
+#### 11. [iTerm2](https://github.com/gnachman/iTerm2) [![GitHub_Stars](https://img.shields.io/github/stars/gnachman/iTerm2?style=social&color=white)](https://github.com/gnachman/iTerm2/stargazers)
 - **Overview**: The standard macOS terminal replacement by George Nachman.
 - **Highlights**: Split panes, hotkey windows (quake style), instant replay DVR mode, shell integration, inline image rendering, Python API, and password manager integration.
 - **License**: GPL-2.0.
 
-#### 12. [Fluent Terminal](https://github.com/felixse/FluentTerminal) [![GitHub stars](https://img.shields.io/github/stars/felixse/FluentTerminal?style=social&color=white)](https://github.com/felixse/FluentTerminal/stargazers)
+#### 12. [Fluent Terminal](https://github.com/felixse/FluentTerminal) [![GitHub_Stars](https://img.shields.io/github/stars/felixse/FluentTerminal?style=social&color=white)](https://github.com/felixse/FluentTerminal/stargazers)
 - **Overview**: UWP-based terminal emulator with modern Windows Acrylic and Reveal effects.
 - **Highlights**: Custom keybindings, search, multiple shell tabs, and theme import/export.
 - **License**: Apache-2.0.
 
-#### 13. [ConEmu](https://github.com/ConEmu/ConEmu) [![GitHub stars](https://img.shields.io/github/stars/ConEmu/ConEmu?style=social&color=white)](https://github.com/ConEmu/ConEmu/stargazers)
+#### 13. [ConEmu](https://github.com/ConEmu/ConEmu) [![GitHub_Stars](https://img.shields.io/github/stars/ConEmu/ConEmu?style=social&color=white)](https://github.com/ConEmu/ConEmu/stargazers)
 - **Overview**: Veteran Windows console emulator hosting multiple command-line applications in a tabbed window.
 - **Highlights**: Split panes, ANSI X3.64 and xterm 256 colors, quake-style slide-down animations, and Far Manager integration.
 - **License**: BSD-3-Clause.
 
-#### 14. [Rio](https://github.com/raphamorim/rio) [![GitHub stars](https://img.shields.io/github/stars/raphamorim/rio?style=social&color=white)](https://github.com/raphamorim/rio/stargazers)
+#### 14. [Rio](https://github.com/raphamorim/rio) [![GitHub_Stars](https://img.shields.io/github/stars/raphamorim/rio?style=social&color=white)](https://github.com/raphamorim/rio/stargazers)
 - **Overview**: High-performance hardware-accelerated terminal emulator built with Rust and WebGPU.
 - **Highlights**: Leverages the `wgpu` ecosystem for consistent cross-platform graphics, minimal resource usage, split screens, and font ligatures.
 - **License**: Apache-2.0.
 
-#### 15. [Contour](https://github.com/contour-terminal/contour) [![GitHub stars](https://img.shields.io/github/stars/contour-terminal/contour?style=social&color=white)](https://github.com/contour-terminal/contour/stargazers)
+#### 15. [Contour](https://github.com/contour-terminal/contour) [![GitHub_Stars](https://img.shields.io/github/stars/contour-terminal/contour?style=social&color=white)](https://github.com/contour-terminal/contour/stargazers)
 - **Overview**: Cutting-edge C++ terminal emulator with strict VT standard compliance.
 - **Highlights**: Full Sixel and modern graphics protocol support, clickable hyperlinks, modal vi-mode copy/paste, and GPU rendering via OpenGL.
 - **License**: Apache-2.0.
 
-#### 16. [Extraterm](https://github.com/sedwards2009/extraterm) [![GitHub stars](https://img.shields.io/github/stars/sedwards2009/extraterm?style=social&color=white)](https://github.com/sedwards2009/extraterm/stargazers)
+#### 16. [Extraterm](https://github.com/sedwards2009/extraterm) [![GitHub_Stars](https://img.shields.io/github/stars/sedwards2009/extraterm?style=social&color=white)](https://github.com/sedwards2009/extraterm/stargazers)
 - **Overview**: A terminal designed to expand the concept of the CLI with structural GUI elements.
 - **Highlights**: Command "framing" to reuse past stdout as input pipes, scrollback mini-map, inline image preview, and command palette.
 - **License**: MIT.
@@ -214,8 +214,8 @@ Contributions are warmly encouraged! Help keep this directory current, accurate,
    ```
 3. **Add Entries**:
    - Follow the established markdown formatting.
-   - For open-source projects, include the social style star badge linked to the stargazers page:
-     `[![GitHub stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`
+   - For open-source projects, include the social style Stars_Badge linked to the stargazers page:
+     `[![GitHub_Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`
    - For commercial/SaaS tools, provide specific starting tier prices and explicit free tier / trial terms.
 4. **Submit a PR**: Open a descriptive Pull Request with links to official docs or project pages.
 

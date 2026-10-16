@@ -2,7 +2,7 @@
 
 # Awesome-Terminal-Emulators
 
-# Top Terminal Emulators Ecosystem
+## Top Terminal Emulators Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on GPU-Accelerated Rendering, Cross-Platform Workflows & Modern Terminal Features*  

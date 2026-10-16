@@ -1,6 +1,6 @@
 # Awesome-Terminal-Emulators
 
-# Top Terminal Multiplexers Ecosystem
+## Top Terminal Multiplexers Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Persistent Sessions, Pane Management & Terminal Workspace Orchestration*  
